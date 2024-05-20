@@ -1,0 +1,18 @@
+.odd {
+    background-color:  #ff000080;
+    font-size: 20px;
+}
+
+.odd.cooler {
+    font-size: 25px;
+}
+
+#one {
+    color: blue;
+    font-size: 35px;
+}
+
+#another {
+    background-color: greenyellow;
+    font-size: 26px;
+}

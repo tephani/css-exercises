@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.proportioned {
+    height: 90px;
+    width: auto;
+}
+.distorted{
+    height: 90px;
+    width: auto;  
+}
+.avatar.proportioned{
+    height: 60px;
+    width: auto;
+}
+.avatar.distorted{
+    height: 80px;
+    width: 40px;
+}

@@ -1,0 +1,16 @@
+.click {
+    color: white;
+    background-color: black;
+    border-radius: 0%;
+    font-weight: 500;
+    border-width: 0.02cm;
+}
+
+.click.no {
+    color: black;
+    font-weight: 400;
+    background-color: yellow;
+    border-radius: 0%;
+    border-color: black;
+    border-width: 0.02cm;
+}
